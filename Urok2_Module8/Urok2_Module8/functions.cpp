@@ -1,4 +1,4 @@
-#include<stdio.h>
+﻿#include<stdio.h>
 #include<iostream>
 #include<locale.h>
 #include<string.h>
